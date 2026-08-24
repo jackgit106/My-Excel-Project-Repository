@@ -15,6 +15,13 @@ The project involved cleaning, organising, analysing, and visualising data to id
 - **SWITCH function** to create conditional classifications and improve data analysis
 - **Charts and visualisations** to communicate sales performance and trends
 - **Data organisation and preparation** for effective analysis and reporting
+<img width="367" height="195" alt="image" src="https://github.com/user-attachments/assets/dc4e8914-c82e-4d54-9c67-9b1ec76556d1" />
+<img width="367" height="157" alt="image" src="https://github.com/user-attachments/assets/3460800c-c855-42ec-a698-175edba6819a" />
+<img width="367" height="49" alt="image" src="https://github.com/user-attachments/assets/410ea284-94ad-4140-ab42-43ddfde52d8a" />
+<img width="332" height="177" alt="image" src="https://github.com/user-attachments/assets/e4ddf699-2907-4e0c-9270-ad345b9511b4" />
+<img width="332" height="198" alt="image" src="https://github.com/user-attachments/assets/8efa2423-a4d0-4b91-8b7b-1bd35d7bac25" />
+<img width="332" height="209" alt="image" src="https://github.com/user-attachments/assets/ccb01b01-0e9c-4974-80c3-77bbf32e231f" />
+
 
 ## Key Tasks
 
